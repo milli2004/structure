@@ -1,0 +1,23 @@
+1.introduction:
+1.1purpose of this document-
+At first,main aim of this document is neccesary pupose is explained
+1.2 document conventions
+1.3 scope of this document-
+overall working and main objective of document.it also inculdes cost and time required
+2.overview-
+in this description isof product is explained
+2.1.general description:
+it includes objectives of user and general function of product
+2.2 design constraints
+3.system features:
+3.1 functional requirements:
+in this,possible outcome of software sysytem which include effects due to opertion of program is explained
+4.external interface requirements
+4.1 interface reqiremnts-
+expalin how software communicates with user
+5.non functional requirements-
+5.1 performance requriement-
+explain how sofrtware performs under spsecified condition
+5.2 sfety requirements
+
+
